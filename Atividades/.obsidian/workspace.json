@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95895c0b67d266ee",
+            "id": "8e6aee01a1aa8516",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Atividade 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Atividade 2"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividade 1.md",
+                "file": "Atividade 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Atividade 1"
+              "title": "Backlinks for Atividade 2"
             }
           },
           {
@@ -164,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95895c0b67d266ee",
+  "active": "8e6aee01a1aa8516",
   "lastOpenFiles": [
+    "Atividade 2.md",
     "Atividade 1.md",
+    "Untitled 1.md",
     "Prints/Captura de tela 2025-06-11 143243.png",
     "Prints/Captura de tela 2025-06-11 142601.png",
     "Prints/Captura de tela 2025-06-11 141924.png",
