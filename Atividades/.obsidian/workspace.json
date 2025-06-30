@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e7a2862be4e3199",
+        "id": "b02cac6bad969150",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6aee01a1aa8516",
+            "id": "dc2031428b4a0d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atividade 2.md",
+                "file": "Atividade Controle de Versões 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividade 2"
+              "title": "Atividade Controle de Versões 1"
             }
           }
         ]
@@ -168,19 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e6aee01a1aa8516",
+  "active": "dc2031428b4a0d18",
   "lastOpenFiles": [
-    "Atividade 2.md",
-    "Atividade 1.md",
-    "Untitled 1.md",
-    "Prints/Captura de tela 2025-06-11 143243.png",
-    "Prints/Captura de tela 2025-06-11 142601.png",
-    "Prints/Captura de tela 2025-06-11 141924.png",
-    "Welcome.md",
-    "create a link.md",
-    "Prints/Captura de tela 2025-06-11 142510.png",
-    "Prints/Captura de tela 2025-06-11 142254.png",
-    "Prints/Captura de tela 2025-06-11 142140.png",
-    "Prints"
+    "Pasted image 20250628143354.png",
+    "Prints/Pasted image 20250628142822.png",
+    "Relatório.md",
+    "Atividade Introdução a TMS.md",
+    "Prints/Pasted image 20250628141634.png",
+    "Atividade Controle de Versões 1.md",
+    "Prints/Pasted image 20250628141000.png",
+    "Controle de Versões/simplegit-progit/lib/simplegit.rb",
+    "Controle de Versões/simplegit-progit/README",
+    "Controle de Versões/simplegit-progit/Rakefile",
+    "Controle de Versões/simplegit-progit/lib",
+    "Controle de Versões/simplegit-progit",
+    "Prints/Pasted image 20250627115638.png",
+    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/yellow.png",
+    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/white.png",
+    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/transparent.png",
+    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/red.png",
+    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/purple.png",
+    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/pink.png",
+    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/smooth_sky_stone_block.json",
+    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/smooth_quartz_block.json",
+    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/sky_stone_brick.json",
+    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/sky_stone_small_brick.json",
+    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/sky_stone_block.json",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wrench.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wireless_terminals.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wireless_receiver.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wireless_access_point.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/vibration_chamber.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/view_cell.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/upgrade_cards.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/tiny_tnt.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/toggle_bus.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/terminals.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/storage_cells.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/storage_bus.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_pylon.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_io_port.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_cells.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_anchor.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/sky_stone_tank.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/sky_stone.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/sky_dust.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/quartz_tools.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/singularities.md",
+    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/quartz_glass.md"
   ]
 }
