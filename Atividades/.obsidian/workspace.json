@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "37c7c833b6b908cf",
+    "id": "d815700c81dd599a",
     "type": "split",
     "children": [
       {
-        "id": "b02cac6bad969150",
+        "id": "ea6399e7484805ea",
         "type": "tabs",
         "children": [
           {
-            "id": "dc2031428b4a0d18",
+            "id": "37205b38f8ef5667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atividade Controle de Versões 1.md",
+                "file": "Atividade Introdução a TMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividade Controle de Versões 1"
+              "title": "Atividade Introdução a TMS"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7370ba8467df9ea0",
+    "id": "ad28f034c830ba91",
     "type": "split",
     "children": [
       {
-        "id": "943dea2b282f2989",
+        "id": "a096bdb769a5490c",
         "type": "tabs",
         "children": [
           {
-            "id": "8b472a3621511b7a",
+            "id": "cb08e6417391ef9a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "6c431af7a7283598",
+            "id": "7106e77263219766",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6c72426e61527e50",
+            "id": "8750e8ee511261fb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "774569ff391a7cff",
+    "id": "f22c9170182194fd",
     "type": "split",
     "children": [
       {
-        "id": "11e7f88b6e6c80da",
+        "id": "8dc76536454bb976",
         "type": "tabs",
         "children": [
           {
-            "id": "09fe5a6f8e36b56b",
+            "id": "f811bc0e27bd5d7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividade 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Atividade 2"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "418a4c982a0259b4",
+            "id": "285ccd5992a35874",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atividade 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Atividade 1"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "49b353fb9d08df47",
+            "id": "36e53448dbb3de7f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +135,17 @@
             }
           },
           {
-            "id": "7090309d65104bd8",
+            "id": "97500beb72528c3a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atividade 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atividade 1"
+              "title": "Outline"
             }
           }
         ]
@@ -160,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,53 +166,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc2031428b4a0d18",
+  "active": "37205b38f8ef5667",
   "lastOpenFiles": [
-    "Pasted image 20250628143354.png",
-    "Prints/Pasted image 20250628142822.png",
+    "Atividade Testes 1.md",
     "Relatório.md",
-    "Atividade Introdução a TMS.md",
-    "Prints/Pasted image 20250628141634.png",
+    "Untitled.md",
+    "AtividadesTeste2/bin/test/CalculatorTest.class",
+    "AtividadesTeste2/src/test/CalculatorTest.java",
+    "AtividadesTeste2/bin/test",
+    "AtividadesTeste2/src/test",
+    "AtividadesTeste2/bin/Testes/CalculatorTest.class",
+    "AtividadesTeste2/src/Testes/CalculatorTest.java",
+    "AtividadesTeste2/bin/Testes",
+    "AtividadesTeste2/src/Testes",
+    "AtividadesTeste2/bin/Calculadora/CalculatorTest.class",
+    "AtividadesTeste2/src/Calculadora/CalculatorTest.java",
+    "Prints/Pasted image 20250826150031.png",
+    "Prints/Pasted image 20250826140736.png",
     "Atividade Controle de Versões 1.md",
-    "Prints/Pasted image 20250628141000.png",
-    "Controle de Versões/simplegit-progit/lib/simplegit.rb",
-    "Controle de Versões/simplegit-progit/README",
-    "Controle de Versões/simplegit-progit/Rakefile",
-    "Controle de Versões/simplegit-progit/lib",
-    "Controle de Versões/simplegit-progit",
-    "Prints/Pasted image 20250627115638.png",
-    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/yellow.png",
-    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/white.png",
-    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/transparent.png",
-    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/red.png",
-    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/purple.png",
-    "Controle de Versões/Applied-Energistics-2/src/main/resources/assets/ae2/textures/part/cable/core/glass/pink.png",
-    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/smooth_sky_stone_block.json",
-    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/smooth_quartz_block.json",
-    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/sky_stone_brick.json",
-    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/sky_stone_small_brick.json",
-    "Controle de Versões/Applied-Energistics-2/src/generated/resources/data/ae2/advancement/recipes/misc/shaped/walls/sky_stone_block.json",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wrench.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wireless_terminals.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wireless_receiver.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/wireless_access_point.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/vibration_chamber.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/view_cell.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/upgrade_cards.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/tiny_tnt.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/toggle_bus.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/terminals.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/storage_cells.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/storage_bus.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_pylon.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_io_port.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_cells.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/spatial_anchor.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/sky_stone_tank.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/sky_stone.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/sky_dust.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/quartz_tools.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/singularities.md",
-    "Controle de Versões/Applied-Energistics-2/guidebook/items-blocks-machines/quartz_glass.md"
+    "Prints/Pasted image 20250826133843.png",
+    "Prints/Pasted image 20250826133812.png",
+    "Prints/Pasted image 20250826133641.png",
+    "Atividade Controle de Versões 3.md",
+    "Prints/Pasted image 20250727160633.png",
+    "Prints/Pasted image 20250727160228.png",
+    "Prints/Pasted image 20250727155513.png",
+    "Prints/Pasted image 20250727155329.png",
+    "Prints/Pasted image 20250727154943.png",
+    "Atividade Introdução a TMS.md"
   ]
 }
