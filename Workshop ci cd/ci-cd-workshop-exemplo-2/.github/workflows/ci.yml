@@ -1,0 +1,29 @@
+## Nome do workflow
+name: CI - Testes Automatizados
+
+## Evento que dispara o workflow
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+## Conjunto de passos de execução
+jobs:
+  test: ## Nome do job
+    runs-on: ubuntu-latest ## Ambiente de execução, maquina virtual
+
+    steps: ## Passo a passo de execução
+      - name: Clonar código
+        uses: actions/checkout@v3 ## Ação para clonar o repositório
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v3 ## Ação para configurar o Node.js
+        with:
+          node-version: '18'
+
+      - name: Instalar dependências
+        run: npm install ## Comando para instalar dependências
+
+      - name: Rodar testes
+        run: npm test ## Comando para rodar os testes

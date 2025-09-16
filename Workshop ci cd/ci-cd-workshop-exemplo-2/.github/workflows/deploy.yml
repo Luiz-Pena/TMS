@@ -1,0 +1,29 @@
+## Nome do workflow
+name: CD - Deploy no GitHub Pages
+
+## Evento que dispara o workflow
+on:
+  push:
+    branches: [ main ]
+
+## Permissões necessárias
+permissions:
+  contents: write
+
+## Conjunto de passos de execução
+jobs:
+  deploy:
+    runs-on: ubuntu-latest ## Ambiente de execução
+
+    steps:
+      - name: Clonar código
+        uses: actions/checkout@v3 ## Ação para clonar o repositório
+
+      - name: Build
+        run: echo "Retorna numero par ou impar" > index.html ## Comando para gerar o build
+
+      - name: Deploy no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3 ## Ação para fazer o deploy
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
